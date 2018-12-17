@@ -5,4 +5,4 @@ Currently working through tutorials on:
  * Python
  * Google Cloud
  
- This is part of one of those tutorials
+ This is part of one of those tutorials.
